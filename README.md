@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Addressbook Tutorial
 ====================
 
@@ -66,3 +67,9 @@ To use the built in server adapters of Eclipse, instead of doing "Run As -> Mave
 - *Do not use the suggested J2EE Preview server* as it is outdated, deprecated and does not support Servlet 3, which is required for this application
 
 *** End of documentation
+=======
+# Practice
+GIT - Module 2 Practice
+This is the Frist session on GIT hub!!
+I have created a new account with GIThub and created some repositories for practice purpose.
+>>>>>>> c0a5a20259385cb7b343e5e472c536adda0050d5
